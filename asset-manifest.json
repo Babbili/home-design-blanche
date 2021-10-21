@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/home-design-blanche/static/css/main.4aa6d034.chunk.css",
+    "main.js": "/home-design-blanche/static/js/main.950fad0d.chunk.js",
+    "main.js.map": "/home-design-blanche/static/js/main.950fad0d.chunk.js.map",
+    "runtime-main.js": "/home-design-blanche/static/js/runtime-main.7ea220a6.js",
+    "runtime-main.js.map": "/home-design-blanche/static/js/runtime-main.7ea220a6.js.map",
+    "static/js/2.4a219059.chunk.js": "/home-design-blanche/static/js/2.4a219059.chunk.js",
+    "static/js/2.4a219059.chunk.js.map": "/home-design-blanche/static/js/2.4a219059.chunk.js.map",
+    "index.html": "/home-design-blanche/index.html",
+    "static/css/main.4aa6d034.chunk.css.map": "/home-design-blanche/static/css/main.4aa6d034.chunk.css.map",
+    "static/js/2.4a219059.chunk.js.LICENSE.txt": "/home-design-blanche/static/js/2.4a219059.chunk.js.LICENSE.txt",
+    "static/media/bs-item-1.afe38708.jpg": "/home-design-blanche/static/media/bs-item-1.afe38708.jpg",
+    "static/media/bs-item-2.eab0c55f.jpg": "/home-design-blanche/static/media/bs-item-2.eab0c55f.jpg",
+    "static/media/bs-item-3.d07e0269.jpg": "/home-design-blanche/static/media/bs-item-3.d07e0269.jpg",
+    "static/media/hdhero.739d87b2.JPG": "/home-design-blanche/static/media/hdhero.739d87b2.JPG",
+    "static/media/shop-item-1.85c0bc56.JPG": "/home-design-blanche/static/media/shop-item-1.85c0bc56.JPG",
+    "static/media/shop-item-2.993e5193.JPG": "/home-design-blanche/static/media/shop-item-2.993e5193.JPG",
+    "static/media/shop-item-3.1bc42d86.JPG": "/home-design-blanche/static/media/shop-item-3.1bc42d86.JPG",
+    "static/media/shop-item-4.022e50ab.JPG": "/home-design-blanche/static/media/shop-item-4.022e50ab.JPG",
+    "static/media/social-img-1.21c11236.jpg": "/home-design-blanche/static/media/social-img-1.21c11236.jpg",
+    "static/media/social-img-2.3c00282f.jpg": "/home-design-blanche/static/media/social-img-2.3c00282f.jpg",
+    "static/media/social-img-3.70282575.jpg": "/home-design-blanche/static/media/social-img-3.70282575.jpg",
+    "static/media/social-img-4.d5d05034.jpg": "/home-design-blanche/static/media/social-img-4.d5d05034.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ea220a6.js",
+    "static/js/2.4a219059.chunk.js",
+    "static/css/main.4aa6d034.chunk.css",
+    "static/js/main.950fad0d.chunk.js"
+  ]
+}
